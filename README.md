@@ -41,7 +41,7 @@ The files contain the following columns:
 Create a sheet in your Excel file with the name “Analysis”. Here you should include both the answers to the questions and  comments explaining your thought process and conclusions.
 
 ## Requirements
-Microsoft Excel Version 2402
+Microsoft Excel Version 2402<br/>
 Note: If you use other apps (e.g. Google Sheets) some functions, formulas, and visualizations might not work properly.
 
 ## License
