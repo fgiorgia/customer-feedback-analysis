@@ -4,7 +4,7 @@
 This GitHub repository contains the files and documentation for a comprehensive analysis exploring customers' feelings about the company's products and services.
 
 ## Dataset
-I used a dataset collected from a project for the Introduction to Data Analytics Course 2023 for the ReDI School of Digital Integration. Submitted by - Giorgia Faedda.
+I used a dataset collected from a project for the Introduction to Data Analytics Course 2023 for the [ReDI School of Digital Integration Malmö](https://www.redi-school.org/redi-school-malmo). Submitted by - Giorgia Faedda.
 
 ## Assignment instruction
 You are working for a small startup that sells natural beauty products. The company recently conducted a customer feedback survey to understand how their customers feel about their products and services. Your task is to analyze the data collected from the survey and provide insights to the company.
@@ -38,4 +38,11 @@ The files contain the following columns:
     3. Based on your analysis, provide recommendations to the company on how they can improve their products and services.
 
 ### Submission
-Create a sheet  in your Excel file with the name “Analysis”. Here you should include both the answers to the questions and  comments explaining your thought process and conclusions.
+Create a sheet in your Excel file with the name “Analysis”. Here you should include both the answers to the questions and  comments explaining your thought process and conclusions.
+
+## Requirements
+Microsoft Excel Version 2402
+Note: If you use other apps (e.g. Google Sheets) some functions, formulas, and visualizations might not work properly.
+
+## License
+This project is licensed under the Apache License - see the [licence](./LICENSE) file for details.
