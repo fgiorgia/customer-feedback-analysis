@@ -1,7 +1,8 @@
 # Customer Feedback Analysis
 
 ## Overview
-This GitHub repository contains the files and documentation for a comprehensive analysis exploring customers' feelings about the company's products and services.
+This GitHub repository contains the file and documentation for a comprehensive analysis exploring customers' feelings about the company's products and services.<br/>
+The file with the data and the analysis: [2023-09-25-analyzing_customer_feedback-v1.xlsx](./2023-09-25-analyzing_customer_feedback-v1.xlsx)
 
 ## Dataset
 I used a dataset collected from a project for the Introduction to Data Analytics Course 2023 for the [ReDI School of Digital Integration Malmö](https://www.redi-school.org/redi-school-malmo). Submitted by - Giorgia Faedda.
